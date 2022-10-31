@@ -27,7 +27,6 @@ class ItemRepositoryTest {
 //    @Autowired
 //    PlatformTransactionManager transactionManager;
 //    TransactionStatus status;
-//
 //    @BeforeEach
 //    void beforeEach() {
 //        status = transactionManager.getTransaction(new DefaultTransactionDefinition());
